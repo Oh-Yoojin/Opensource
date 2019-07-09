@@ -4,12 +4,12 @@
 #### 1.1. Linux single 설치
 * http://cassandra.apache.org/download/URL 에서 다운로드
 ```
-> wget http://apache.tt.co.kr/cassandra/3.10/apache-cassandra-3.10-bin.tar.gz
+> wget http://apache.mirror.cdnetworks.com/cassandra/3.11.4/apache-cassandra-3.11.4-bin.tar.gz
 ```
 
 * 압축 풀기
 ```
-> tar -xvf apache-cassandra-3.10-bin.tar.gz
+> tar -xvf apache-cassandra-3.11.4-bin.tar.gz
 ```
 
 ### 2. Start cassandra
