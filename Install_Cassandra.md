@@ -16,11 +16,11 @@
 #### 2.1. 실행
 
 ```
-> apache-cassandra-3.10/bin/Cassandra
+> apache-cassandra-3.11.4/bin/Cassandra
 ```
 
 #### 2.2. CQLSH 실행
-* In cassandra derectory(~/apache-cassandra-3.10)
+* In cassandra derectory(~/apache-cassandra-3.11.4)
 ```
 > bin/CQLSH
 ```
